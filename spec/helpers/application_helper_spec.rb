@@ -1,5 +1,5 @@
 require 'spec_helper'
-#ll
+
 describe ApplicationHelper do
 
   describe "full_title" do
